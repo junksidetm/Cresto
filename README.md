@@ -1,5 +1,12 @@
 # Cresto
 
+<p align="center">
+  <a href="https://github.com/junksidetm/Cresto"><img src="https://img.shields.io/badge/GitHub-Main-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Main" /></a>
+  <a href="https://codeberg.org/mrdarksidetm/Cresto"><img src="https://img.shields.io/badge/Codeberg-Mirror-2185d0?style=flat-square&logo=codeberg&logoColor=white" alt="Codeberg Mirror" /></a>
+  <a href="https://gitlab.com/mrdarksidetm/Cresto"><img src="https://img.shields.io/badge/GitLab-Mirror-fc6d26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab Mirror" /></a>
+  <a href="https://github.com/Nevodev/Cresto"><img src="https://img.shields.io/badge/Upstream-Nevodev%2FCresto-blue?style=flat-square&logo=github" alt="Upstream Source" /></a>
+</p>
+
 Cresto is a modern Android to-do app built with Kotlin and Jetpack Compose. It combines a clean task manager with AI-assisted capture, calendar sync, reminders, lightweight productivity insights, and a custom visual system called Glasense.
 
 > Cresto is currently in active alpha development. Some details may change quickly as features are refined.
@@ -82,6 +89,15 @@ The Data & Storage screen exports todos and subtasks as JSON. Imports can either
 `glasense-ui` is Cresto's in-repo UI library and design system. It contains reusable visual primitives, components, theme tokens, and interaction patterns used across the app.
 
 I don't recommend you using `glasense-ui` at the time. It is still unfinished.
+
+## 🌐 Source Mirrors
+
+- **Main (GitHub)**: [github.com/junksidetm/Cresto](https://github.com/junksidetm/Cresto)
+- **Mirror (Codeberg)**: [codeberg.org/mrdarksidetm/Cresto](https://codeberg.org/mrdarksidetm/Cresto)
+- **Mirror (GitLab)**: [gitlab.com/mrdarksidetm/Cresto](https://gitlab.com/mrdarksidetm/Cresto)
+- **Upstream Source**: [github.com/Nevodev/Cresto](https://github.com/Nevodev/Cresto)
+
+---
 
 ## Third-Party Notices
 

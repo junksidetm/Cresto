@@ -19,3 +19,10 @@
   - Shapes (`io.github.kyant0:shapes`): `1.2.0`
   - AGSL / RuntimeShader: Android 13+ (API 33+)
 - **Status:** 100% (Fork completed, case study documented, and extraction module established).
+
+## [2026-10-08 18:07:50 IST] - Tri-Platform Source Mirrors Integration
+- **Action**: Added GitHub (Main), Codeberg (Mirror), and GitLab (Mirror) repository badges and dedicated Source Mirrors section in README.md.
+- **Files Modified**:
+  - `README.md`
+  - `Version.md`
+- **Status**: 100% (Completed & Synced)
